@@ -1,4 +1,10 @@
+
 """
+testando o git
+"""
+
+"""
+
 Questão 1
 
 A maquina esta sorteando um numero entre 1 e 100 usando random o usuario continua ate acertar
